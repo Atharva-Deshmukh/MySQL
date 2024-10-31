@@ -29,7 +29,7 @@ The root user has complete control over the MySQL database and is typically used
 
 The admin user is a secondary user account with sufficient privileges for managing databases and tables but without root-level access.
 
-- **Username**: `admin`
+- **Username**: `AdminUser`
 - **Password**: `Admin@123`
 
 ---
