@@ -1,6 +1,6 @@
 # MySQL Setup
 
-<img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" alt="MySQL Logo" width="300" height="300" left-margin="50%" right-margin="50%">
+<img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" alt="MySQL Logo" width="300" height="300">
 
 ***Note: To add an image, open image in new tab and then get the URL***
 
