@@ -1,5 +1,7 @@
 # MySQL Setup
 
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL Logo" width="30">
+
 # MySQL Database Setup and Components
 
 This repository contains information regarding the setup and configuration of a MySQL database, including key components and user credentials for administration.
@@ -10,9 +12,6 @@ MySQL has several core components:
 
 1. **Server**: The MySQL Server is the core of the MySQL database, handling all data storage and management operations.
 2. **Client**: The MySQL Client is the interface for connecting to the server, typically accessed via the MySQL command-line client or other database tools.
-3. **Storage Engines**: MySQL supports multiple storage engines, such as InnoDB and MyISAM, each suited to different use cases.
-4. **Database Schema**: The database schema defines the structure of tables, relationships, and constraints within the MySQL database.
-5. **MySQL Configuration Files**: These files (`my.cnf` on Linux or `my.ini` on Windows) contain settings that control how MySQL behaves, including security and performance configurations.
 
 ## User Credentials
 
