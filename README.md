@@ -1,6 +1,8 @@
 # MySQL Setup
 
-<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL Logo" width="30">
+<img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" alt="MySQL Logo" width="300" height="300" left-margin="50%" right-margin="50%">
+
+***Note: To add an image, open image in new tab and then get the URL***
 
 # MySQL Database Setup and Components
 
