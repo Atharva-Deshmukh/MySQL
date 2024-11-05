@@ -1,0 +1,4 @@
+to open a table in mysql:
+- Right click on table
+- Select rows menu 
+a prewritten select * script is written.
